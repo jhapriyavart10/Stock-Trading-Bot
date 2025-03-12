@@ -71,5 +71,3 @@ The model's performance is evaluated using:
 **🔗 Author: Priyavart Jha**  
 For queries or contributions, feel free to connect! 🚀  
 ```
-
-This README is **structured, detailed, and professional**. Let me know if you want any refinements! 🚀🔥
